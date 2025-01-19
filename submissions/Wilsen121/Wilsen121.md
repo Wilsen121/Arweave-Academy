@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: Wilsen121
+- github account: https://github.com/Wilsen121
 - Email: wilsen230@gmail.com
 - Arweave Address: D7Y6RC8z-xzqPlCfc7bU6uBPbA5FjVOeaGVZcxVwKIw
 - ETH Address: 0x7129db061654377783a3de24eaa5c5223f6715d2
